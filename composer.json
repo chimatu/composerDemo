@@ -1,0 +1,13 @@
+{
+    "name": "test/demo",
+    "description": "test project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "shenxingyu",
+            "email": "46028204@qq.com"
+        }
+    ],
+    "minimum-stability":"dev",
+    "require": {}
+}
